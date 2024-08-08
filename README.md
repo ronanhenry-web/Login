@@ -7,7 +7,6 @@ Faire une système de login avec UIDesigner
 Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
 
 - Cloner le projet
-- Avoir une BDD et suivre les consignes du fichier properties
 - Créer une BDD avec une table users et ajouter mysql connector en tant que librairie
 - Compiler le fichier main
 
