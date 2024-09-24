@@ -1,15 +1,15 @@
-# Projet Login
+# Login Project
 
-Faire une système de login avec UIDesigner
+Creating a login system with UIDesigner
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+The project was created using IntelliJ. To get it running, follow these steps :
 
-- Cloner le projet
-- Créer une BDD avec une table users et ajouter mysql connector en tant que librairie
-- Compiler le fichier main
+- Clone the project
+- Create a database with a "users" table and add the MySQL connector as a library
+- Compile the main file
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
